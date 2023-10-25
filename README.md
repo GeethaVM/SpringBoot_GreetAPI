@@ -1,6 +1,5 @@
 # SpringBoot_GreetAPI
 A simple GreetAPI exposed as Rest API, built with Java 8 using Spring Boot.
-build, execute and sample request, response.
 
 # Requirement
 Java 8 and IDE for SpringBoot project
