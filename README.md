@@ -13,10 +13,11 @@ http://localhost:8080/greetapi/v1/hello?name=Geetha
 
 # Sample request and response
 Request : GET http://localhost:8080/greetapi/v1/hello
+
 Response : Hello World !!
 
 Request : GET http://localhost:8080/greetapi/v1/hello?name=Geetha
+
 Response : Hello Geetha !!
 
-# API Documentation
-After starting the application the API Documentation with Swagger can be seen here: http://localhost:8080/swagger-ui.html
+
